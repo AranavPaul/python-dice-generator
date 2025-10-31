@@ -31,25 +31,3 @@ To run this program, you must have Python 3 installed on your system.
 5.  **Follow the prompts:**
     * Enter the number of dice you wish to roll.
     * Enter `0` to exit the program.
-
-## Example Output
-
-Here is what it looks like when you ask to roll 3 dice:
----Welcome to digital dice roll--- Enter Number of Dice: 3
-    ┌─────────┐
-    │  ●   ●  │
-    │         │
-    │  ●   ●  │
-    └─────────┘
-
-    ┌─────────┐
-    │         │
-    │    ●    │
-    │         │
-    └─────────┘
-
-    ┌─────────┐
-    │  ●   ●  │ 
-    │    ●    │ 
-    │  ●   ●  │ 
-    └─────────┘
